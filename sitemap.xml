@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://sitemaps.org">
   <url>
-    <loc>https://github.io</loc>
+    <loc>https://tandemirk.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://github.ioindex.html</loc>
+    <loc>https://github.io</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://github.ioabout.html</loc>
+    <loc>https://github.io</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://github.ioportfolio.html</loc>
+    <loc>https://github.io</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://github.ioreklama.html</loc>
+    <loc>https://github.io</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://github.iopos.html</loc>
+    <loc>https://github.io</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://github.iocontacts.html</loc>
+    <loc>https://github.io</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
